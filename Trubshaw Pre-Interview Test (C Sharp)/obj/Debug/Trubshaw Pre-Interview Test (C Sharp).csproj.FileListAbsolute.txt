@@ -1,0 +1,10 @@
+C:\Users\Stewart\Desktop\Trubshaw Pre-Interview Test\Trubshaw Pre-Interview Test (C Sharp)\bin\Debug\Trubshaw Pre-Interview Test (C Sharp).exe.config
+C:\Users\Stewart\Desktop\Trubshaw Pre-Interview Test\Trubshaw Pre-Interview Test (C Sharp)\bin\Debug\Trubshaw Pre-Interview Test (C Sharp).exe
+C:\Users\Stewart\Desktop\Trubshaw Pre-Interview Test\Trubshaw Pre-Interview Test (C Sharp)\bin\Debug\Trubshaw Pre-Interview Test (C Sharp).pdb
+C:\Users\Stewart\Desktop\Trubshaw Pre-Interview Test\Trubshaw Pre-Interview Test (C Sharp)\obj\Debug\Trubshaw Pre-Interview Test (C Sharp).csprojAssemblyReference.cache
+C:\Users\Stewart\Desktop\Trubshaw Pre-Interview Test\Trubshaw Pre-Interview Test (C Sharp)\obj\Debug\Trubshaw_Pre_Interview_Test__C_Sharp_.Properties.Resources.resources
+C:\Users\Stewart\Desktop\Trubshaw Pre-Interview Test\Trubshaw Pre-Interview Test (C Sharp)\obj\Debug\Trubshaw Pre-Interview Test (C Sharp).csproj.GenerateResource.cache
+C:\Users\Stewart\Desktop\Trubshaw Pre-Interview Test\Trubshaw Pre-Interview Test (C Sharp)\obj\Debug\Trubshaw Pre-Interview Test (C Sharp).csproj.CoreCompileInputs.cache
+C:\Users\Stewart\Desktop\Trubshaw Pre-Interview Test\Trubshaw Pre-Interview Test (C Sharp)\obj\Debug\Trubshaw Pre-Interview Test (C Sharp).exe
+C:\Users\Stewart\Desktop\Trubshaw Pre-Interview Test\Trubshaw Pre-Interview Test (C Sharp)\obj\Debug\Trubshaw Pre-Interview Test (C Sharp).pdb
+C:\Users\Stewart\Desktop\Trubshaw Pre-Interview Test\Trubshaw Pre-Interview Test (C Sharp)\obj\Debug\Trubshaw_Pre_Interview_Test__C_Sharp_.TestProgram.resources
